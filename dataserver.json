@@ -1,4 +1,4 @@
-{
+[
 {
      "id": 1,
      "country": "Singapore",
@@ -16,4 +16,4 @@
     "password": "password"
 	
 }
-}
+]
