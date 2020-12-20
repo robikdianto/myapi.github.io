@@ -1,6 +1,6 @@
 [
    {
-      "id":"1",
+      "id":1,
       "country":"baman",
       "flags":"false",
       "ovpnfile":"null",
@@ -8,7 +8,7 @@
       "password":"password"
    },
    {
-      "id":"1f6bdd5b-c4ea-4566-bc56-ee2f58acece8",
+      "id":2,
       "country":"nayanthara",
       "flags":"false",
       "ovpnfile":"null",
