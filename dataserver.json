@@ -11,7 +11,7 @@
       "id":2,
       "country":"Singapore",
       "flags":"false",
-      "ovpnfile":"ds",
+      "ovpnfile":"https://raw.githubusercontent.com/robikdianto/myapi.github.io/gh-pages/sg7.4-tcpvpn.com-443.ovpn",
       "username":"tcpvpn.com-test1111",
       "password":"test1111"
    }
