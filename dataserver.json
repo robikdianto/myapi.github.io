@@ -25,7 +25,7 @@
    },
    {
       "id":4,
-      "country":"United State",
+      "country":"United States",
       "flags":"https://www.countryflags.com/wp-content/uploads/united-states-of-america-flag-png-large.png",
       "ovpnfile":"https://raw.githubusercontent.com/robikdianto/myapi.github.io/gh-pages/vpngate_73.222.174.60_tcp_1583.ovpn",
       "username":"",
