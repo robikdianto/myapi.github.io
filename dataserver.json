@@ -3,7 +3,7 @@
       "id":1,
       "country":"baman",
       "flags":"false",
-      "client
+      "ovpnfile":"client
 dev tun
 proto tcp
 remote 51.254.35.77 1194
