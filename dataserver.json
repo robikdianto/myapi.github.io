@@ -38,13 +38,5 @@
       "ovpnfile":"https://raw.githubusercontent.com/robikdianto/myapi.github.io/gh-pages/germany-443.ovpn",
       "username":"tcpvpn.com-vpnvpn123",
       "password":"vpnvpn123"
-   },
-   {
-      "id":6,
-      "country":"Germany",
-      "flags":"https://www.countryflags.com/wp-content/uploads/germany-flag-png-large.png",
-      "ovpnfile":"https://raw.githubusercontent.com/robikdianto/myapi.github.io/gh-pages/germany-443.ovpn",
-      "username":"tcpvpn.com-vpnvpn123",
-      "password":"vpnvpn123"
    }
 ]
