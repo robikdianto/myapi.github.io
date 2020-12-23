@@ -5,6 +5,7 @@
       "flags":"https://www.countryflags.com/wp-content/uploads/japan-flag-png-large.png",
       "ovpnfile":"https://raw.githubusercontent.com/robikdianto/myapi.github.io/gh-pages/JP1.tcpvpn.com-443.ovpn",
       "username":"tcpvpn.com-vpnvpn123",
+      "ping":67,
       "password":"vpnvpn123"
    },
    {
@@ -13,6 +14,7 @@
       "flags":"https://www.countryflags.com/wp-content/uploads/singapore-flag-png-large.png",
       "ovpnfile":"https://raw.githubusercontent.com/robikdianto/myapi.github.io/gh-pages/sg7.4-tcpvpn.com-443.ovpn",
       "username":"tcpvpn.com-test1111",
+      "ping":300,
       "password":"test1111"
    },
    {
@@ -21,6 +23,7 @@
       "flags":"https://www.countryflags.com/wp-content/uploads/united-kingdom-flag-png-large.png",
       "ovpnfile":"https://raw.githubusercontent.com/robikdianto/myapi.github.io/gh-pages/JP1.tcpvpn.com-443.ovpn",
       "username":"tcpvpn.com-vpnvpn123",
+      "ping":120,
       "password":"vpnvpn123"
    },
    {
@@ -29,6 +32,7 @@
       "flags":"https://www.countryflags.com/wp-content/uploads/united-states-of-america-flag-png-large.png",
       "ovpnfile":"https://raw.githubusercontent.com/robikdianto/myapi.github.io/gh-pages/vpngate_73.222.174.60_tcp_1583.ovpn",
       "username":"",
+      "ping":200,
       "password":""
    },
    {
@@ -37,6 +41,7 @@
       "flags":"https://www.countryflags.com/wp-content/uploads/germany-flag-png-large.png",
       "ovpnfile":"https://raw.githubusercontent.com/robikdianto/myapi.github.io/gh-pages/germany-443.ovpn",
       "username":"tcpvpn.com-vpnvpn123",
+      "ping":98,
       "password":"vpnvpn123"
    }
 ]
