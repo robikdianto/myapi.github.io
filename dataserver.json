@@ -58,5 +58,25 @@
       "username":"bagusdj245@gmail.com",
       "ping":198,
       "password":"Sugihwarasbk13"
+   },
+   {
+      "id":7,
+      "vip":false,
+      "country":"Atlanta",
+      "flags":"https://www.ipvanish.com/images/flags2/US.png",
+      "ovpnfile":"https://raw.githubusercontent.com/robikdianto/myapi.github.io/gh-pages/ipvanish-AT-Vienna-vie-c04.ovpn",
+      "username":"bagusdj245@gmail.com",
+      "ping":198,
+      "password":"Sugihwarasbk13"
+   },
+   {
+      "id":8,
+      "vip":false,
+      "country":"Australia",
+      "flags":"https://www.countryflags.com/wp-content/uploads/flag-jpg-xl-9-scaled.jpg",
+      "ovpnfile":"https://raw.githubusercontent.com/robikdianto/myapi.github.io/gh-pages/ipvanish-AU-Brisbane-bne-c02.ovpn",
+      "username":"bagusdj245@gmail.com",
+      "ping":198,
+      "password":"Sugihwarasbk13"
    }
 ]
