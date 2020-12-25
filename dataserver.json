@@ -48,5 +48,15 @@
       "username":"tcpvpn.com-vpnvpn123",
       "ping":98,
       "password":"vpnvpn123"
+   },
+   {
+      "id":6,
+      "vip":false,
+      "country":"Dubai",
+      "flags":"https://www.countryflags.com/wp-content/uploads/united-arab-emirates-flag-png-large.png",
+      "ovpnfile":"https://raw.githubusercontent.com/robikdianto/myapi.github.io/gh-pages/ipvanish-AE-Dubai-dxb-c01.ovpn",
+      "username":"bagusdj245@gmail.com",
+      "ping":198,
+      "password":"Sugihwarasbk13"
    }
 ]
