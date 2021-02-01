@@ -3,13 +3,27 @@
 	"videoDescription" : "Cinta Suco",
 	"videoThumbnail" : "https://storyclips.nos.jkt-1.neo.id/uploads/jpeg/f55cfe03e97671466ea21f4446ceb075.jpeg",
 	"videoUrl" : "VideoUrl",
-	"videoTags" :[ {
+	"videoTags" : {
 	"id" : 2,
 	"tagsName" : "Lucu"
 	},
-	{"id" : 3,
-	"tagsName" : "Keren"
-	}],
+	"videoLike" : 122,
+	"userId" : 1,
+	"user" : {
+	"id" : 1,
+	"userName" : "Jaja",
+	"userEmail" : "jaja@gmail.com",
+	"userImage" : "https://storyclips.nos.jkt-1.neo.id/uploads/jpeg/f55cfe03e97671466ea21f4446ceb075.jpeg"
+	}
+}, {
+	"id" : 1,
+	"videoDescription" : "Cinta Suco",
+	"videoThumbnail" : "https://storyclips.nos.jkt-1.neo.id/uploads/jpeg/f55cfe03e97671466ea21f4446ceb075.jpeg",
+	"videoUrl" : "VideoUrl",
+	"videoTags" : {
+	"id" : 2,
+	"tagsName" : "Lucu"
+	},
 	"videoLike" : 122,
 	"userId" : 1,
 	"user" : {
@@ -19,18 +33,15 @@
 	"userImage" : "https://storyclips.nos.jkt-1.neo.id/uploads/jpeg/f55cfe03e97671466ea21f4446ceb075.jpeg"
 	}
 },
-{
+ {
 	"id" : 1,
 	"videoDescription" : "Cinta Suco",
 	"videoThumbnail" : "https://storyclips.nos.jkt-1.neo.id/uploads/jpeg/f55cfe03e97671466ea21f4446ceb075.jpeg",
 	"videoUrl" : "VideoUrl",
-	"videoTags" :[ {
+	"videoTags" : {
 	"id" : 2,
 	"tagsName" : "Lucu"
 	},
-	{"id" : 3,
-	"tagsName" : "Keren"
-	}],
 	"videoLike" : 122,
 	"userId" : 1,
 	"user" : {
@@ -39,19 +50,15 @@
 	"userEmail" : "jaja@gmail.com",
 	"userImage" : "https://storyclips.nos.jkt-1.neo.id/uploads/jpeg/f55cfe03e97671466ea21f4446ceb075.jpeg"
 	}
-},
-{
+}, {
 	"id" : 1,
 	"videoDescription" : "Cinta Suco",
 	"videoThumbnail" : "https://storyclips.nos.jkt-1.neo.id/uploads/jpeg/f55cfe03e97671466ea21f4446ceb075.jpeg",
 	"videoUrl" : "VideoUrl",
-	"videoTags" :[ {
+	"videoTags" : {
 	"id" : 2,
 	"tagsName" : "Lucu"
 	},
-	{"id" : 3,
-	"tagsName" : "Keren"
-	}],
 	"videoLike" : 122,
 	"userId" : 1,
 	"user" : {
@@ -60,19 +67,15 @@
 	"userEmail" : "jaja@gmail.com",
 	"userImage" : "https://storyclips.nos.jkt-1.neo.id/uploads/jpeg/f55cfe03e97671466ea21f4446ceb075.jpeg"
 	}
-},
-{
+}, {
 	"id" : 1,
 	"videoDescription" : "Cinta Suco",
 	"videoThumbnail" : "https://storyclips.nos.jkt-1.neo.id/uploads/jpeg/f55cfe03e97671466ea21f4446ceb075.jpeg",
 	"videoUrl" : "VideoUrl",
-	"videoTags" :[ {
-	"id" : 2,
-	"tagsName" : "Lucu"
-	},
-	{"id" : 3,
+	"videoTags" : {
+	"id" : 4,
 	"tagsName" : "Keren"
-	}],
+	},
 	"videoLike" : 122,
 	"userId" : 1,
 	"user" : {
